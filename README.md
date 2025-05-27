@@ -1,8 +1,8 @@
-# Omnifood-FoodDelivery
-"Omnifood-FoodDelivery" is housing an innovative food delivery website project named Omnifood. This repository contains the complete source code, design assets, and interactive features that power Omnifood's seamless online food ordering experience.
+# SakuraFood-FoodDelivery
+"SakuraFood-FoodDelivery" is housing an innovative food delivery website project named Omnifood. This repository contains the complete source code, design assets, and interactive features that power Omnifood's seamless online food ordering experience.
 
 
-## About Omnifood
+## About SakuraFood
 
 We are a technology company first, but with a major focus on consumer well-being through a healthy diet. Most people are very busy with their jobs, family and friends, and other important activities, which doesn't leave much time for cooking. This might lead to a poor diet and lasting health consequences. We want to solve this problem by using an AI-centric approach. Users can use our app to select their diet and foods they like and dislike, and our AI algorithm will create a custom and individual weekly meal plan. But we don't stop there. We partner with restaurants and other cooking partners to actually cook and deliver all meals from the generated meal plans, in selected cities. All this will be packed up in a monthly subscription, where users can choose between receiving one or two meals per day, every single day of the month.
 
@@ -12,7 +12,7 @@ Headline: A healthy meal delivered to your door, every single day
 
 Brand color: #e67e22
 
-## Omnifood Website Content
+## SakuraFood Website Content
 
 ### Summary
 
@@ -39,7 +39,7 @@ Approve your weekly meal plan: Once per week, approve the meal plan generated fo
 
 Receive meals at convenient time: Best chefs in town will cook your selected meal every day, and we will deliver it to your door whenever works best for you. You can change delivery schedule and address daily!
 
-### Omnifood works with any diet
+### SakuraFood works with any diet
 
 Vegetarian
 Vegan
@@ -53,7 +53,7 @@ Kid-friendly
 
 ### Sample meals
 
-**Omnifood AI chooses from 5,000+ recipes**
+**SakuraFood AI chooses from 5,000+ recipes**
 
 Meal 1: Japanese Gyozas
 
@@ -105,7 +105,7 @@ Complete: $649 per month
 Inexpensive, healthy and great-tasting meals, without even having to order manually! It feels truly magical. (Dave Bryson)
 The AI algorithm is crazy good, it chooses the right meals for me every time. It's amazing not to worry about food anymore! (Ben Hadley)
 Omnifood is a life saver! I just started a company, so there's no time for cooking. I couldn't live without my daily meals now! (Steve Miller)
-I got Omnifood for the whole family, and it frees up so much time! Plus, everything is organic and vegan and without plastic. (Hannah Smith)
+I got SakuraFood for the whole family, and it frees up so much time! Plus, everything is organic and vegan and without plastic. (Hannah Smith)
 
 ### Section with logos of featured publications [see images]
 
@@ -113,7 +113,7 @@ I got Omnifood for the whole family, and it frees up so much time! Plus, everyth
 
 Address: 623 Harrison St., 2nd Floor, San Francisco, CA 94107
 Phone: 415-201-6370
-Email: hello@omnifood.com
+Email: hello@SakuraFood.com
 
 Social profiles: instagram, facebook, twitter [links to them not available yet]
 
@@ -124,7 +124,7 @@ Sign in
 iOS app
 Android app
 
-About Omnifood
+About SakuraFood
 For Business
 Cooking partners
 Careers
